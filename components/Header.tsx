@@ -161,7 +161,7 @@ export function Header() {
                 </motion.div>
                 <div className="flex flex-col items-start relative z-10">
                   <span className="font-medium text-sm">Call Now</span>
-                  <span className="text-xs opacity-75">+1 (555) 123-4567</span>
+                  {/* <span className="text-xs opacity-75">+1 (555) 123-4567</span> */}
                 </div>
               </Button>
             </motion.div>

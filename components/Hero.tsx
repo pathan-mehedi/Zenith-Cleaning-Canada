@@ -162,7 +162,7 @@ const CleaningProgress = () => {
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.8, delay: 2 }}
-      className="absolute bottom-8 left-8 bg-white/95 backdrop-blur-sm rounded-2xl p-4 shadow-xl max-w-xs"
+      className="absolute bottom-[7rem] left-8 bg-white/95 backdrop-blur-sm rounded-2xl p-4 shadow-xl max-w-xs"
     >
       <div className="flex items-center space-x-3 mb-2">
         <motion.div
